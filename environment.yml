@@ -1,9 +1,0 @@
-name: jupyter-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - pip
-  - pip:
-    - requests
-  
